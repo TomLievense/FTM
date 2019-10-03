@@ -1,0 +1,18 @@
+﻿Author: Tom Lievense
+Last Changed: May 29 2019
+
+The default Ignore file will be automatically added to every new project.
+Modifications won't effect existing projects.
+
+
+Ignore {
+    */.*
+    .*
+    *.log
+    *.exe
+    *.bak
+    *.swp
+    *~  
+    */bin/*
+    Thumbs.db
+}

@@ -1,0 +1,75 @@
+﻿Author: Tom Lievense
+Last Changed: May 25 2019
+
+This file contains language configurations used for the command "count".
+
+
+C/C++ {
+    extension: .c , .h , .hpp , .cpp
+    line_comment: //
+    open_comment: /*
+    close_comment: */
+}
+
+C-sharp {
+    extension: .cs
+    line_comment: //
+    open_comment: /*
+    close_comment: */
+}
+
+Java {
+    extension: .java
+    line_comment: //
+    open_comment: /*
+    close_comment: */
+}
+
+JavaScript {
+    extension: .js
+    line_comment: //
+    open_comment: /*
+    close_comment: */
+}
+
+Dart {
+    extension: .dart
+    line_comment: //
+    open_comment: /*
+    close_comment: */
+}
+
+DXL {
+    extension: .dxl , .inc
+    line_comment: //
+    open_comment: /*
+    close_comment: */
+}
+
+GO {
+    extension: .go
+    line_comment: //
+    open_comment: /*
+    close_comment: */
+}
+
+XML {
+    extension: .xml , .xaml , .axml
+    open_comment: <!--
+    close_comment: -->
+}
+
+Python {
+    extension: .py
+    line_comment: #
+}
+
+Ruby {
+    extension: .rb
+    line_comment: #
+} 
+
+Shell-Script {
+    extension: .sh , .command , .tool
+    line_comment: #
+}
