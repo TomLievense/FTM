@@ -1,0 +1,7 @@
+Identifier<6p3q631eeps674cMi0woR2RbfUdgcG3eOU5710S52ONTT6RGcy8gsS6ys7gu52O4>
+
+Ignore {
+        */bin/*
+        */obj/*
+	.DS_Store
+}
